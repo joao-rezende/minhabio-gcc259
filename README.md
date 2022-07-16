@@ -35,4 +35,9 @@ Experiências com:
  
 ### Projetos Freelancer
 
-![LeagueScores](/leaguescores.png) | ![Hive Bookings](/hivebookings.png) | ![ProgenBR](/progenbr.png)
+#### LeagueScores
+![LeagueScores](/leaguescores.png)
+#### Hive Bookings
+![Hive Bookings](/hivebookings.png)
+#### ProgenBR
+![ProgenBR](/progenbr.png)
