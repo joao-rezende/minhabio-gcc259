@@ -1,4 +1,5 @@
-# ![Meu Avatar](https://avatars.githubusercontent.com/u/43976659?s=120&v=4) João Vitor Soares Rezende
+![Meu Avatar](https://avatars.githubusercontent.com/u/43976659?s=120&v=4)
+# João Vitor Soares Rezende
 
 ## Carreira acadêmica
 
